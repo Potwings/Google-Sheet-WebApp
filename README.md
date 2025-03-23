@@ -100,7 +100,7 @@ function updateUser(rowIndex, name, phone, email) {
 }
 ```
 
-index.html
+Index.html
 ```
 <!DOCTYPE html>
 <html>
@@ -261,7 +261,7 @@ function updateUser(rowIndex, updatedData) {
 }
 ```
 
-index.html
+Index.html
 ```
 <!DOCTYPE html>
 <html>
@@ -490,7 +490,7 @@ function updateUser(rowIndex, updatedData) {
 }
 ```
 
-index.html
+Index.html
 ```
 <!DOCTYPE html>
 <html>
