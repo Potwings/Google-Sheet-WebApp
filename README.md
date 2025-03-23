@@ -421,8 +421,9 @@ GPT가 작성해준 코드를 활용하여 기존 코드의 loginUser, updateUse
 
 ## 최종 결과
 
+### 코드
 <details>
-  <summary>코드</summary>
+  <summary>내용 확인</summary>
   </br>
   
 Code.gs
@@ -698,9 +699,6 @@ index.html
 
 </details>
 </br>
-</br>
-</br>
-
 
 ### 로그인
 <img src="https://github.com/user-attachments/assets/eb625aa9-46d6-4d6a-ac5b-b00b4a8c35b7" style="width: 600px; height: auto;"/>
