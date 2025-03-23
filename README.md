@@ -1,6 +1,14 @@
 # Google-Sheet-WebApp
 구글 스프레드 시트를 활용하여 제작한 웹앱. 각 기업의 담당자들이 직접 자신들의 기업 정보를 수정할 수 있도록 하기 위해 개발.
 
+URL : https://script.google.com/macros/s/AKfycbwF1ouxRecIeyxZ7Xk9tgMd5dxqJcVH4PkPIcqKqyUDud-iaPAdUwHccg9ngebw2YRdtQ/exec
+
+접근 가능 계정
+
+<img src="https://github.com/user-attachments/assets/65fa6076-ac9c-4431-9e21-0b448d377eae" style="width: 300px; height: auto;"/>
+
+</br>
+
 ## 화면
 
 ### 로그인
@@ -20,7 +28,9 @@
 
 ## 개발 동기
 최근 비개발자인 친구가 회사에서 업무 부담을 줄이기 위해 기업들의 데이터를 각 기업의 담당자들이 직접 수정할 수 있도록 하고 싶어 방법을 찾고 있다는 이야기를 들어 시작하게 되었다.
+
 물론 실제 어플리케이션을 개발하면 쉽게 제작할 수 있는 내용이나 아무래도 비개발자가 이를 운영하기 위한 인프라 및 유지보수를 진행하기엔 무리가 있다 판단하였다.
+
 그러던 중 구글 스프레드 시트로 웹앱을 제작할 수 있다는 것을 알게되어 이를 활용하여 진행하게 되었다.
 
 </br>
