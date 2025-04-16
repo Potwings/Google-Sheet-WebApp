@@ -1,7 +1,7 @@
 # Google-Sheet-WebApp
 구글 스프레드 시트를 활용하여 제작한 웹앱. 각 기업의 담당자들이 직접 자신들의 기업 정보를 수정할 수 있도록 하기 위해 개발.
 
-URL : https://script.google.com/macros/s/AKfycbwF1ouxRecIeyxZ7Xk9tgMd5dxqJcVH4PkPIcqKqyUDud-iaPAdUwHccg9ngebw2YRdtQ/exec
+URL : https://google-sheet.yonggeon.kr
 
 접근 가능 계정
 
